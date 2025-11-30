@@ -1,3 +1,3 @@
-Language: Blender
-Material for box: plastic
+Language: Blender ------
+Material for box: plastic -------
 Material for insert: rubber
